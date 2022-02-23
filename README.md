@@ -174,3 +174,4 @@ The `data` field contains the output context. Values of `id` fields will change,
 All the leaf subfolders of [the test events resource folder](src/test/resources/events) contain a pair of `input.json` and `output.json` files.
 
 There's one for every possible variation in the structure of the input/output events supported by the addon. Feel free to try them all.
+# dmn-event-driven-quarkus
